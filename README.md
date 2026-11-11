@@ -25,13 +25,16 @@ The assignment is to run an experiment where you try a simple MLP network and a 
   - One input layer 
   - Three hidden layers
   - One output layer
+ 
+  You can refer to the Python notebook ([Day 21 Notes](https://github.com/alimoorreza/CS167-fall26-notes/blob/main/Day21_Training_a_Modular_MLP_with_PyTorch.ipynb)) for an example of MLP training, where we trained an MLP on the Fashion-MNIST dataset.
 - Build a **CNN** that has this structure (the exact number of parameters is given in [the part 2 starter notebook](https://github.com/alimoorreza/CS167-Fall26-Notebook-5/blob/main/Notebook5_part2_starter.ipynb) as suggestions):
   - Conv layer 1
   - Conv layer 2
   - Flatten layer
   - Fully Connected layer (Dense)
   - Fully Connected layer (Dense)
-
+    
+You can refer to the Python notebook ([Day 23 Notes](https://github.com/alimoorreza/CS167-fall26-notes/blob/main/Day23_CNN_training.ipynb)) for an example of CNN training, where we trained a CNN on the Fashion-MNIST dataset.
 - **Train both models** and compare their performance.    
     - You should train each model for enough epochs that your performance on the test set stops improving (i.e., show where you reach overfitting)  OR for at least 1 hour of training time. If you would like to further experiment with additional changes, that is fine, but because these things sometimes take a long time to train.
 
