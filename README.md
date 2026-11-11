@@ -5,7 +5,7 @@ Deep learning with MLP and CNN for an image recognition task.
 
 For this notebook, you will train two deep neural networks (DNN) for an image recognition task, such as the cat vs. dog:
 
-**Part 1) a multilayer perceptron (MLP)*** 
+**Part 1) a multilayer perceptron (MLP)** 
 
 **Part 2) a convolutional neural network (CNN)**
 
